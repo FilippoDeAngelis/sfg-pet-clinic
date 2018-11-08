@@ -1,6 +1,6 @@
-import java.io.Serializable;
+package guru.springframework.sfgpetclinic.model;
 
-ddpackage guru.springframework.sfgpetclinic.model;
+import java.io.Serializable;
 
 public class BaseEntity implements Serializable {
 
